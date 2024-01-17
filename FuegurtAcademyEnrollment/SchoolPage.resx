@@ -1,0 +1,87 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Unlock Your Potential at Fuegurt Academy! Enroll Now!
+
+Are you ready to embark on an educational journey that goes beyond the ordinary? Look no further than Fuegurt Academy, 
+where excellence meets innovation. Our doors are wide open, and we invite you to be a part of our thriving community.
+
+Why Choose Fuegurt Academy?
+Cutting-Edge Courses: Dive into a world of knowledge with our diverse range of courses designed to meet the demands of today's dynamic industries.
+Expert Faculty: Learn from industry experts and passionate educators who are dedicated to your success.
+State-of-the-Art Facilities: Immerse yourself in a conducive learning environment equipped with modern facilities and resources.
+Hands-On Experience: Gain practical, hands-on experience that prepares you for real-world challenges.
+Networking Opportunities: Connect with like-minded individuals and industry professionals through our extensive network.
+Career Guidance: Receive personalized career guidance and support to pave the way for a successful future.
+
+Featured Course: Introduction to Props
+Unleash your creativity with our captivating course, "Introduction to Props." Whether you're passionate about theater, 
+film, or event planning, this course provides the foundation you need to excel in prop design and implementation.
+
+Enrollment Benefits:
+Early Bird Special: Enroll before February 21, 2024 to enjoy exclusive benefits and discounts.
+Flexible Schedules: Choose from flexible class schedules to accommodate your lifestyle.
+Scholarship Opportunities: Merit-based scholarships available for outstanding students.
+Interactive Learning: Engage in interactive and dynamic learning experiences that go beyond textbooks.
+Ready to take the first step towards a brighter future? Click the "Enroll Now" button and embark on a journey of knowledge, growth, and success!
+Don't miss out on this opportunity. Join Fuegurt Academy - where education meets excellence!
+</value>
+  </data>
+</root>
